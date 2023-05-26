@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @murodov-m
 - 👀 I’m interested in almost everything... unfortunately
-- 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python, PHP and front-end!
+- 💞️ I’m looking to collaborate on any interesting stuff
+- 📫 How to reach me:
+- mail: ?
+- telegram: @mamurm
